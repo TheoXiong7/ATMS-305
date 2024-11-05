@@ -1,0 +1,15 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2004-12-29T05:56:47.540Z,8.791,93.198,12,6.2,mwb,364,58.8,,0.97,us,usp000dc3q,2022-05-02T17:40:52.194Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,us
+2004-12-29T01:50:52.570Z,9.109,93.756,8,6.1,mwb,442,51.7,,0.9,us,usp000dc3b,2022-05-02T17:40:44.154Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,us
+2004-12-27T09:39:06.800Z,5.348,94.65,35,6.1,mwb,468,36,,0.81,us,usp000dbuz,2022-07-14T19:00:58.688Z,"78 km WSW of Banda Aceh, Indonesia",earthquake,,,,,reviewed,us,us
+2004-12-26T19:19:55.570Z,2.794,94.162,30,6.1,mwc,135,65.9,,1.24,us,usp000dbnq,2022-05-02T17:39:55.753Z,"249 km W of Sinabang, Indonesia",earthquake,,,,,reviewed,us,hrv
+2004-12-26T15:06:33.240Z,3.651,94.086,17.8,6,mwc,181,37.3,,0.97,us,usp000dbku,2022-05-02T17:39:50.059Z,"233 km WSW of Meulaboh, Indonesia",earthquake,,,,,reviewed,us,hrv
+2004-12-26T11:05:00.720Z,13.533,92.84,13.3,6.2,mwc,462,26.8,,0.89,us,usp000dbjw,2022-05-02T15:55:52.176Z,"203 km N of Bamboo Flat, India",earthquake,,,,,reviewed,us,hrv
+2004-12-26T10:19:31.730Z,13.462,92.738,26.4,6.3,mwc,389,43.2,,0.86,us,usp000dbjg,2022-05-02T17:39:43.292Z,"194 km N of Bamboo Flat, India",earthquake,,,,,reviewed,us,hrv
+2004-12-26T09:20:01.610Z,8.879,92.375,16.1,6.6,mwc,353,31.9,,1.07,us,usp000dbj1,2022-05-02T17:39:40.888Z,"Nicobar Islands, India region",earthquake,,16.7,,,reviewed,us,hrv
+2004-12-26T04:21:29.810Z,6.91,92.958,39.2,7.2,mwc,385,27.9,,1,us,usp000dbg6,2022-07-14T19:02:41.855Z,"284 km WNW of Sabang, Indonesia",earthquake,,7.6,,,reviewed,us,hrv
+2004-12-26T02:00:40.030Z,6.848,94.667,30,6,mb,264,57.3,,1.29,us,usp000dbet,2022-05-02T17:38:44.422Z,"128 km NW of Sabang, Indonesia",earthquake,,,,93,reviewed,us,us
+2004-12-26T01:25:48.760Z,5.499,94.213,30,6.1,mb,82,72.3,,0.9,us,usp000dbej,2022-05-02T17:38:29.897Z,"124 km W of Banda Aceh, Indonesia",earthquake,,,,24,reviewed,us,us
+2004-12-26T01:22:25.590Z,7.421,93.985,30,6,mb,80,75.7,,0.95,us,usp000dbeh,2022-05-02T17:38:28.793Z,"224 km NW of Sabang, Indonesia",earthquake,,,,45,reviewed,us,us
+2004-12-26T01:21:20.660Z,6.34,93.361,30,6.1,mb,96,54.3,,0.9,us,usp000dbeg,2022-05-09T19:17:35.987Z,"222 km WNW of Sabang, Indonesia",earthquake,,,,49,reviewed,us,us
+2004-12-26T00:58:53.450Z,3.295,95.982,30,9.1,mw,601,22,,1.17,official,official20041226005853450_30,2023-01-03T22:32:42.708Z,"2004 Sumatra - Andaman Islands Earthquake",earthquake,,,,,reviewed,us,official
